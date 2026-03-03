@@ -21,6 +21,14 @@ html {
 
 .three {
   border-radius: 10px; 
+  height: 25px;
+  width: 200px;
+}
+
+.four {
+  margin: 20px 10px;
+   height: 25px;
+  width: 200px;
 }
 
 p {
