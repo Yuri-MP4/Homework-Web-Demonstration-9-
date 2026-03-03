@@ -19,6 +19,9 @@ html {
   padding: 10px 15px;
     }
 
+.three {
+  border-radius: 10px; 
+}
 
 p {
   background-color: #004643;
