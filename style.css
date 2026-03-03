@@ -45,6 +45,12 @@ html {
   max-height: 50px;
 }
 
+.seven {
+  width: 50px;
+  height: 25px;
+  overflow: scroll;
+}
+
 p {
   background-color: #004643;
   border: 1.5px solid #e16162;
